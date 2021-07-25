@@ -1,2 +1,2 @@
-# Monkey-Go-Happy-
-Monkey Go Happy by Adithya Pratap Chatterjee is a fun and interesting game!
+# p5.play-boilerplate
+Boiler plate for p5.play
